@@ -1,0 +1,33 @@
+{
+  "name": "Solana Drip Apes#0",
+  "symbol": "SDA",
+  "description": "Meta data updated",
+  "seller_fee_basis_points": 500,
+  "image": "https://raw.githubusercontent.com/metrosolana/assets/main/0.png",
+  "attributes": [],
+  "collection": {
+    "name": "Solana Drip Apes#0",
+    "family": "SDA"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/metrosolana/assets/main/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4ezA2GeAyKA6MY7EVegzm1mtHPSFAek1rThgxWspP23b",
+        "share": 0,
+        "verified": true
+      },
+      {
+        "address": "8KdhgP2XqjdU4ZvqV4cq3SfeXkxsqQ6716PrHPU5y4Lq",
+        "share": 100,
+        "verified": false
+      }
+    ]
+  }
+}
